@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         //set Hello World
         TextView txt=findViewById(R.id.txt_mainText);
         txt.setText("Hello World! yEAAAA");
+        //fake comment
     }
 }
